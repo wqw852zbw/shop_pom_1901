@@ -33,6 +33,7 @@ public class ItemController {
     /**
      * 什么时候调用这个方法生成静态页？ - 添加商品时生成
      * 将指定的商品详情生成一个静态页面
+     * 添加了代买
      * @return
      */
     @ResponseBody
